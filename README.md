@@ -7,7 +7,7 @@ I'm a software developer working with Python, Django, JavaScript, and React. I'm
 ## 💫 About Me:
 - 🔭 I’m currently working on projects using **Python**, **Django**, **JavaScript**, and **React**.
 - 🌱 I’m always looking to learn more about **backend development** and **cloud computing**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sunilkumar-halasur/) or [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/sunilkumar-halasur/](https://www.linkedin.com/in/sunilkumar-s-h-92261617b/)) or [Email](mailto:youremail@example.com)
 
 ---
 
