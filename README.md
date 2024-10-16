@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sunil Kumar Halasur!
+# 👋 Hi, I'm SunilKumar Halasur!
 
 I'm a software developer working with Python, Django, JavaScript, and React. I'm passionate about building scalable web applications and constantly learning new technologies to improve my craft.
 
