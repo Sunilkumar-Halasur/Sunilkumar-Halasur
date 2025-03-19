@@ -5,7 +5,7 @@ I'm a software developer passionate about building scalable web applications usi
 ---
 
 ## 💫 About Me:
-- 🔭 I’m currently working on exciting projects involving **Python**, **Django**, **JavaScript**, and **React**.
+- 🔭 I’m currently working on exciting projects involving **Python**, **Django**, **SQL**, **JavaScript**, and **React**.
 - 🌱 I’m continuously learning more about **backend development** and **cloud computing**.
 - 💬 Ask me about **full-stack development**, **RESTful APIs**, or **automation scripts**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sunilkumar-s-h-92261617b/) or [Email](mailto:youremail@example.com)
